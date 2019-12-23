@@ -1,4 +1,4 @@
-package java.git;
+package java;
 
 
 public class demo {
